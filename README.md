@@ -1,2 +1,16 @@
 # Pymaceuticals
-Matplotlib functions applied to real-world scenarios
+--------------------------------------------------------------------------------------
+BELOW IS A PREVIEW OF THE PROJECT
+--------------------------------------------------------------------------------------
+FIGURE 1: Displaying the effects of drugs throughout the time period
+![](Figures/tumor_response.png)
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+FIGURE 2: Shows the Metastatic Spread of the drugs effect on tumors
+![](Figures/metastatic_response.png)
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+FIGURE 3: Displays the survival rate of the mice through prolonged usage
+![](Figures/survival.png)
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
